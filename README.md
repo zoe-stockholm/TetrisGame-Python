@@ -1,1 +1,1 @@
-a classic Tetris game
+run tetris_game.py
